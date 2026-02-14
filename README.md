@@ -34,23 +34,6 @@ PDF Processing: PyPDF2 / pdfminer for text extraction.
 Python Libraries: streamlit, numpy, pandas, scikit-learn, tqdm.
 
 
-# 📂 Project Structure
-´´´
-RAG-Chatbot/
-│
-├─ pipeline/                # Core pipeline modules
-│   ├─ A_pdf_loader.py       # Extracts text from PDF
-│   ├─ B_text_chunker.py     # Splits text into chunks
-│   ├─ C_embedding_model.py  # Loads embedding model
-│   ├─ D_vector_store.py     # Creates vector store
-│   ├─ E_retriever.py        # Retrieves relevant chunks
-│   └─ F_llm_generator.py    # Generates AI response from chunks
-│
-├─ app.py                    # Main Streamlit application
-├─ requirements.txt          # Python dependencies
-└─ README.md                 # Project documentation
-´´´
-
 # ⚙️ How It Works
 
 PDF Upload: User uploads a PDF document via the sidebar.

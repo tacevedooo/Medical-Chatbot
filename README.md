@@ -33,6 +33,7 @@ PDF Processing: PyPDF2 / pdfminer for text extraction.
 
 Python Libraries: streamlit, numpy, pandas, scikit-learn, tqdm.
 
+´´´
 # 📂 Project Structure
 RAG-Chatbot/
 │
@@ -47,6 +48,7 @@ RAG-Chatbot/
 ├─ app.py                    # Main Streamlit application
 ├─ requirements.txt          # Python dependencies
 └─ README.md                 # Project documentation
+´´´
 
 # ⚙️ How It Works
 

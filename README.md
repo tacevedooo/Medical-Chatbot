@@ -33,8 +33,9 @@ PDF Processing: PyPDF2 / pdfminer for text extraction.
 
 Python Libraries: streamlit, numpy, pandas, scikit-learn, tqdm.
 
-´´´
+
 # 📂 Project Structure
+´´´
 RAG-Chatbot/
 │
 ├─ pipeline/                # Core pipeline modules

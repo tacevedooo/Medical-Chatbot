@@ -1,8 +1,8 @@
-langchain==1.2.10
-flask==3.1.2
-sentence-transformers==5.2.2
-pypdf==6.7.0
-python-dotenv==1.2.1
-langchain-pinecone==0.0.1
-langchain-openai==1.1.9
-langchain-community==0.4.1
+langchain
+flask
+sentence-transformers
+pypdf
+python-dotenv
+langchain-pinecone
+langchain-openai
+langchain-community
